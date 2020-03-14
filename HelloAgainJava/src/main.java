@@ -1,14 +1,9 @@
-
 public class main {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		test();
-	}
-	
-	public static void test() {
-		System.out.println("Hello World");
-		
-	}
+    public static void main(String[] args) {
+        // DateTest.test();
+		TuteLab01.TuteLab01();
+    }
+
 
 }
