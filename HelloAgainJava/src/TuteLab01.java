@@ -32,6 +32,7 @@ public class TuteLab01 {
         System.out.println(calculateOutput("Resistance", resistance));
     }
 
+
     private static double getInputValues(String message) {
         double num = 0;
         boolean doAgain = true;
